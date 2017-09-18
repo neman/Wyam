@@ -27,7 +27,7 @@ ipch
 *.pdb
 /*.~vsd
 *UpgradeWizard*
-.vs/*
+.vs/
 TestResult.xml
 /debug.log
 /packages.xml
